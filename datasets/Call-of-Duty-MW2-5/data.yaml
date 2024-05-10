@@ -1,0 +1,12 @@
+names:
+- MW2_body
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: call-of-duty-mw2
+  url: https://universe.roboflow.com/roboflow-universe-projects/call-of-duty-mw2/dataset/5
+  version: 5
+  workspace: roboflow-universe-projects
+test: ../test/images
+train: Call-of-Duty-MW2-5/train/images
+val: Call-of-Duty-MW2-5/valid/images
