@@ -12,4 +12,4 @@ YOLO fundamentally transforms the field of object detection by treating the iden
 
 Unlike traditional methods that scan images in parts, YOLO examines the entire image in one evaluation, predicting bounding boxes and class probabilities simultaneously. This streamlined approach not only speeds up the detection process, allowing it to run in real-time at impressive speeds, but also simplifies the model architecture, enabling end-to-end optimization directly on detection performance.
 
-### **To learn about the project in more detail, open the YOLO_CS381_Final_Project jupyter notebook above**
+#### **To learn more about how YOLO works and learn how you can used a trained YOLO model or build your own from scratch, open the YOLO_CS381_Final_Project jupyter notebook above and go through this project details**
